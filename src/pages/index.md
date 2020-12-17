@@ -20,7 +20,7 @@ sections:
     background:
       background_color: white
       background_image: images/brooke-lark-aGjP08-HbYY-unsplash.jpg
-      background_image_opacity: 40
+      background_image_opacity: 60
       background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
