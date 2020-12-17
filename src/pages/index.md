@@ -21,7 +21,7 @@ sections:
       background_color: blue
       background_image: images/brooke-lark-aGjP08-HbYY-unsplash.jpg
       background_image_opacity: 20
-      background_image_size: contain
+      background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
     title: Features
